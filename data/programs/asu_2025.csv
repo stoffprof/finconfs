@@ -1,0 +1,13 @@
+conf_id,day_num,date,session_num,session_start,session_end,session_title,track,chair,slot_in_session,n_slots_in_session,paper_title,authors,presenter,discussant
+asu_2025,,,1,,,,,Jeffrey Zweibel,1,3,Voting on Public Goods: Citizens vs. Shareholders,"Robin Dottling (Erasmus University Rotterdam), Doron Levit (University of Washington), Nadya Malenko (Boston College), Magdalena Rola-Janicka (Imperial College London)",,Jason Donaldson
+asu_2025,,,1,,,,,Jeffrey Zweibel,2,3,Succession,"Thomas Geelen (Penn State University), Jakub Hajda (HEC Montreal)",,John Barry
+asu_2025,,,1,,,,,Jeffrey Zweibel,3,3,Real Effects of Personal Liability: Evidence from Industrial Pollution,Noemie Bucourt (University of Toronto),,Sangeun Ha
+asu_2025,,,2,,,,,Robert Parrino (U. Texas),1,3,Kamikazes in Public Procurements: Bid-Rigging and Real Non-Market Outcomes,"Dimas Fazio (National University of Singapore), Alminas Zaldokas (National University of Singapore)",,Leon Musolff
+asu_2025,,,2,,,,,Robert Parrino (U. Texas),2,3,Who Clears the Market When Passive Investors Trade?,"Marco Sammon (Harvard), John Shim (University of Notre Dame)",,Lukas Schmid
+asu_2025,,,2,,,,,Robert Parrino (U. Texas),3,3,Poverty Spreads in Deposit Markets,"Emilio Bisetti (HKUST), Arkodipta Sarkar (National University of Singapore)",,Jess Cornaggia
+asu_2025,,,3,,,,,Yuri Tserlukevich (ASU),1,2,Housing Is the Financial Cycle: Evidence from 100 Years of Local Building Permits,"Gustavo S. Cortes (University of Florida), Cameron LaPoint (Yale SOM)",,Jiro Yoshida
+asu_2025,,,3,,,,,Yuri Tserlukevich (ASU),2,2,Assessing Assessors,"Huaizhi Chen (University of Notre Dame), Lauren Cohen (Harvard Business School)",,Anna Scherbina
+asu_2025,,,4,,,,,Wayne Ferson (USC),1,2,ChatGPT and Perception Biases in Investments: An Experimental Study,"Anastassia Fedyk (UC Berkeley), Ali Kakhbod (UC Berkeley), Peiyao Lei (UC Berkeley), Ulrike Malmendier (UC Berkeley)",,Leland Bybee
+asu_2025,,,4,,,,,Wayne Ferson (USC),2,2,Beyond the Status Quo: A Critical Assessment of Lifecycle Investment Advice,"Aizhan Anarkulova (Emory University), Scott Cederburg (University of Arizona), Michael S. O’Doherty (University of Missouri)",,Neil Pearson
+asu_2025,,,5,,,,,Scott Cederburg (University of Arizona),1,2,Two Trees and a Gardener: Asset Pricing with Real Capital Flows,"Sebastien Betermeier (McGill University), Laurent Calvet (SKEMA Business School), Evan Jo (Queen’s University), Johan Walden (UC Berkeley)",,Georgy Chabakauri
+asu_2025,,,5,,,,,Scott Cederburg (University of Arizona),2,2,Out-of-Sample Alphas Post Publication,"Andrei Goncalves (The Ohio State University), Johnathan Loudis (University of Notre Dame), Richard Ogden (Rowan University)",,Julien Penasse

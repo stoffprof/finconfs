@@ -1,0 +1,11 @@
+conf_id,day_num,date,session_num,session_start,session_end,session_title,track,chair,slot_in_session,n_slots_in_session,paper_title,authors,presenter,discussant
+utah_2025,1,February 6,1,7:30,9:15 AM,Methodology,,Jonathan Berk (Stanford),1,2,Do the Trades and Holdings of Market Participants Contain Information About Stocks? A Machine-Learning Approach,"Victor DeMigual (LBS), Li Guo (Fudan), Bo Sung (Bristol), Zhe Zhang (SMU)",,Bryan Kelly
+utah_2025,1,February 6,1,7:30,9:15 AM,Methodology,,Jonathan Berk (Stanford),2,2,Investigating Instruments with Meta Regressions,"Aaron Pancost (Texas), Garrett Schaller (Colorado State)",,Lucian Taylor
+utah_2025,1,February 6,2,5:45,7:30 PM,Investors' Behavior,,Lubos Pastor (Chicago),1,2,Educating Investors About Dividends,"Andreas Hackethal (Goethe University), Tobin Hanspal (WU), Samuel Hartzmark (BC), Konstantine Brauer (Goethe University)",,Michael Weber
+utah_2025,1,February 6,2,5:45,7:30 PM,Investors' Behavior,,Lubos Pastor (Chicago),2,2,Categorical Thinking About Interest Rates,"Kelly Shue (Yale), Richard Townsend (UCSD), Chen Wang (Notre Dame)",,Luigi Zingales
+utah_2025,2,February 7,3,7:30,9:15 AM,Corporate Finance,,Peter DeMarzo (Stanford),1,2,Financially Sophisticated Firms,"Kerry Siani (MIT), Lira Mota (MIT)",,Adriano Rampini
+utah_2025,2,February 7,3,7:30,9:15 AM,Corporate Finance,,Peter DeMarzo (Stanford),2,2,Corporate Finance Through Loyalty Programs,Dan Luo (Chinese University of Hong Kong),,David Yermack
+utah_2025,2,February 7,4,5:45,7:30 PM,On Expected Rates of Returns,,Mark Grinblatt (UCLA),1,2,Growth Index Securities,Stavros Panageas (UCLA),,Martin Lettau
+utah_2025,2,February 7,4,5:45,7:30 PM,On Expected Rates of Returns,,Mark Grinblatt (UCLA),2,2,Firms' Perceived Cost of Capital,"Niels Joachim Gormsen (Chicago), Killian Huber (Chicago)",,Joel David
+utah_2025,3,February 8,5,7:30,9:15 AM,Macro Finance,,Mike Fishman (Kellogg),1,2,Barriers to Global Capital Allocation,"Bruno Pellegrino (Columbia), Enrico Spolaore (Tufts), Romain Wacziarg (UCLA)",,Adrien Verdelhan
+utah_2025,3,February 8,5,7:30,9:15 AM,Macro Finance,,Mike Fishman (Kellogg),2,2,Business Liquidity and Information Cycles,"Gorkem Bostanci (UBC), Guillermo Ordonez (University of Pennsylvania)",,Lukas Schmid

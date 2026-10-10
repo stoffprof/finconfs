@@ -28,6 +28,10 @@ discussant awards at finance conferences.
 | award_decision | `pre_conference` (committee reads submissions), `at_conference` (judges or attendees watch talks), or `unknown` |
 | award_source | conference site / news item / CVs |
 
+`data/programs/<conf_id>.csv`: one row per paper slot, in presentation order,
+built by the parsers in `scripts/`. `data/awards.csv`: one row per award.
+`scripts/build_presentations.py` merges them into
+
 `data/presentations.csv`: one row per paper slot
 
 | field | notes |

@@ -1,0 +1,13 @@
+conf_id,day_num,date,session_num,session_start,session_end,session_title,track,chair,slot_in_session,n_slots_in_session,paper_title,authors,presenter,discussant
+holden_2026,1,October 9,1,8:30,9:20,Households,,Eitan Goldman,1,2,Financial Supermarkets? Cross-Selling in Retail Banking,"Shengmao Cao (Northwestern), Lulu Wang (Northwestern)",,Stefan Lewellen; Xu Lu
+holden_2026,1,October 9,1,9:20,10:10,Households,,Eitan Goldman,2,2,Employee Forgivable Loans,"Alexandru Barbu (INSEAD), Yiran Wang (INSEAD)",,Paul Freed; Alessio Piccolo
+holden_2026,1,October 9,2,10:30,11:20,Credit,,Matt Billett,1,2,The Declining Role of Deposits in Credit Creation,"Stefan Walz (Boston College), Naz Koont (Stanford)",,Mayur Choudhary; Nicolas Inostroza
+holden_2026,1,October 9,2,11:20,12:10,Credit,,Matt Billett,2,2,When Funding Markets Move Credit Markets: Foreign Investors and U.S. CLOs,"Amy Huber (Wharton), Shohini Kundu (UCLA)",,Yoshio Nozawa; Dongchen Zou
+holden_2026,1,October 9,3,1:20,2:10,Assets,,Noah Stoffman,1,2,Optimal Index-Linked Rebalancing with Anticipatory Trading,"Stefano Pegoraro (Notre Dame), Marco Sammon (Harvard), John Shim (Notre Dame)",,Alessandro Melone; Yu An
+holden_2026,1,October 9,3,2:10,3:00,Assets,,Noah Stoffman,2,2,Smart Contracting in Network Markets,"Darrell Duffie (Stanford), Chaojun Wang (Wharton)",,Dmitry Chebotarev; Maren Vairo
+holden_2026,1,October 9,4,3:20,4:10,Managers,,Wenyu Wang,1,2,Taxing Executive Compensation for Social Missions,Xuelin Li (Columbia),,Lin Zhao; Shaoting Pi
+holden_2026,1,October 9,4,4:10,5:00,Managers,,Wenyu Wang,2,2,The Organizational Design of Innovation,"Felix Feng (Georgia), Brett Green (WashU), Curtis Taylor (Duke), Mark Westerfield (Washington)",,Michael Woeppel; Felipe Varas
+holden_2026,2,October 10,5,8:30,9:20,Markets,,Chuck Trzcinka,1,2,The Value of Compliance Carbon Offsets in Cap-and-Trade Markets,"Aymeric Bellon (UNC), Deeksha Gupta (Johns Hopkins), Tarun Ramadorai (LSE and Imperial), Federica Zeni (SFI)",,Mathias Kruttli; Michael Barnett
+holden_2026,2,October 10,5,9:20,10:10,Markets,,Chuck Trzcinka,2,2,Causal Inference in Financial Event Studies,"Paul Goldsmith-Pinkham (Yale), Tianshu Lyu (Yale)",,Tony Cookson; Rui Da
+holden_2026,2,October 10,6,10:30,11:20,Homes,,Andrew Ellul,1,2,A Danish Fix for U.S. Mortgage Lock-In?,"Fabrice Tourre (Baruch), David Berger (Duke), Jaehun Jeong (Duke), Julie Marx (Copenhagen Business School), Maria Olesen (Copenhagen Business School)",,James Vickery; Bulent Guler
+holden_2026,2,October 10,6,11:20,12:10,Homes,,Andrew Ellul,2,2,The Winner’s Curse in Housing Markets,"Steve Choi (RIT), Adam Nowak (West Virginia), Patrick Smith (UNC Charlotte), Alexei Tchistyi (Cornell)",,Seohee Kim; Brian Waters
