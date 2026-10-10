@@ -1,0 +1,7 @@
+conf_id,day_num,date,session_num,session_start,session_end,session_title,track,chair,slot_in_session,n_slots_in_session,paper_title,authors,presenter,discussant
+napa_2015,1,2015,0,8:45 am,9:30 am,,,,1,6,Institutional Investors and Stock Return Anomalies,"Roger Edelen, University of California, Davis; Ozgur Ince, University of South Carolina; Greg Kadlec, Virginia Tech",Greg Kadlec,
+napa_2015,1,2015,0,9:30 am,10:15 am,,,,2,6,Does Household Finance Matter? Small Financial Errors with Large Social Costs,"Harjoat S Bhamra, CEPR and Imperial College Business School; Raman Uppal, CEPR and Edhec Business School",Harjoat S Bhamra,
+napa_2015,1,2015,0,10:45 am,11:30 am,,,,3,6,Who Benefits from Bond Market Modernization?,"David Musto, The Wharton School, University of Pennsylvania; Jillian Popadak, Duke University",Jillian Popadak,
+napa_2015,1,2015,0,11:30 am,12:15 pm,,,,4,6,Debt Restructuring Costs and Bankruptcy Risk: Evidence from CDS Spreads,"Tomislav Ladika, University of Amsterdam; Rafael Matta, University of Amsterdam; Murillo Campello, Cornell University",Tomislav Ladika,
+napa_2015,1,2015,0,2:00 pm,2:45 pm,,,,5,6,Market and Regional Segmentation and Risk Premia in the First Era of Financial Globalization,"David Chambers, Judge Business School, University of Cambridge; Sergei Sarkissian, McGill University; Michael Schill, University of Virginia",David Chambers,
+napa_2015,1,2015,0,2:45 pm,3:30 pm,,,,6,6,Information Networks: Evidence from Illegal Insider Trading Tips,"Kenneth R Ahern, University of Southern California",Kenneth R Ahern,
