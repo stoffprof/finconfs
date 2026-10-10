@@ -1,0 +1,9 @@
+conf_id,day_num,date,session_num,session_start,session_end,session_title,chair,slot_in_session,n_slots_in_session,paper_title,authors,presenter,discussant
+fra_2024,1,"December 7, 2024",1,1:10 PM,3:10 PM,,Joey Engelberg,1,3,"When Political Connections Backfire: Social Protests, Asset Damage, and Firms’ Response",Navid Neshat,Elisabeth Kempf,Elisabeth Kempf
+fra_2024,1,"December 7, 2024",1,1:10 PM,3:10 PM,,Joey Engelberg,2,3,Stealthy Shorts: Informed Liquidity Supply,"Amit Goyal, Adam V. Reed, Esad Smajlbegovic, Amar Soebhag",Slava Fos,Slava Fos
+fra_2024,1,"December 7, 2024",1,1:10 PM,3:10 PM,,Joey Engelberg,3,3,Eliciting Expectations,"Samuel Hartzmark, Abigail Sussman",Spencer Kwon,Spencer Kwon
+fra_2024,1,"December 7, 2024",2,3:40 PM,5:00 PM,,Bob Parrino,1,2,Inflation and Trading,"Philip Schnorpfeil, Michael Weber, Andreas Hackethal",Ricardo De la O,Ricardo De la O
+fra_2024,1,"December 7, 2024",2,3:40 PM,5:00 PM,,Bob Parrino,2,2,Gambling Away Stability: Sports Betting’s Impact on Vulnerable Households,"Scott R. Baker, Justin Balthrop, Mark J. Johnson, Jason Kotter, Kevin Pisciotta",Arpit Gupta,Arpit Gupta
+fra_2024,2,"December 8, 2024",3,1:00 PM,3:00 PM,,Jeffrey Pontiff,1,3,Some Anonymous Options Trades Are More Equal than Others,"Christopher Schwarz, Xing Huang, Philippe Jorion",Chester Spatt,Chester Spatt
+fra_2024,2,"December 8, 2024",3,1:00 PM,3:00 PM,,Jeffrey Pontiff,2,3,How Does Active Involvement Benefit Investors? Evidence from 85 Billion Cell Phone Signals,Jack (Xiaoyong) Fu,Ran Duchin,Ran Duchin
+fra_2024,2,"December 8, 2024",3,1:00 PM,3:00 PM,,Jeffrey Pontiff,3,3,Watching the Watchdogs: Tracking SEC Inquiries using Geolocation Data,"William Gerken, Steven Irlbeck, Marcus Painter, Guangli Zhang",Roger Silvers,Roger Silvers

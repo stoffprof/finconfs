@@ -6,10 +6,13 @@ discussant awards at finance conferences.
 ## Scope (first pass)
 
 - Finance conferences held Oct 2024 – Oct 2026.
-- Starting list: conferences announced on SSRN FEN (Professional Announcements /
-  conference calls for papers), then extended with others that give awards.
+- Small conferences only: fewer than 15 papers on the program. Large association
+  meetings (AFA, WFA, FMA Annual) are excluded; they have too many papers and
+  their awards are mostly decided before the meeting.
 - Keep only conferences that (a) give a best paper and/or best discussant award
-  and (b) post a program with session times and paper order.
+  and (b) post a program with paper order.
+- Finding conferences: SSRN FEN blocks automated access, so we snowball from
+  the CVs of presenters and discussants on programs we already have.
 
 ## Data to collect
 
