@@ -3,8 +3,8 @@ FRA Annual Meeting,search,have_program,8 papers; best paper + best discussant (a
 BYU Red Rock Finance Conference,search;CVs(3),have_program,10 papers; best paper + best discussant
 UC Davis-FMA Napa Finance Conference,FMA awards page;CVs,have_program,6 papers; best paper by attendee ranking; no discussants
 RCFS Winter Conference,search;CVs,have_program,2026 parsed; awards started 2026
-UIC Finance Conference,search;CVs,to_check,"12 papers; best discussant by vote (2024 Gulen, 2025 Kleiner, 2026 Hacamo); program not found online"
-Johns Hopkins Carey Finance Conference,search;CVs(2),blocked,7-8 papers + PhD lightning round; attendee votes; site blocks automated access (Cloudflare)
+UIC Finance Conference,search;CVs,needs_program,"12 papers; best discussant by attendee vote (2024 Gulen, 2025 Kleiner, 2026 Hacamo); programs not posted online"
+Johns Hopkins Carey Finance Conference,search;CVs(2),blocked,7-8 papers; best paper + best discussant by participant vote; Cloudflare blocks automated access
 IU Holden Conference in Finance and Real Estate,WRDS page;CVs(4),have_program,2026 parsed; 2025 order + winners needed
 Cognitive Foundations in Finance Conference,CVs,no_award?,2025 program has no award listed
 ITAM Finance Conference,CVs(5),to_check,
@@ -12,7 +12,7 @@ Utah Winter Finance Conference,CVs(3),have_program,10 papers; best paper by atte
 Yale Junior Finance Conference,CVs(3),to_check,8 papers; no award found
 Colorado Finance Summit,CVs(2),have_program,"2024-2025 parsed; best paper, best JMP, best discussant"
 FSU Truist Beach Conference,CVs(3),to_check,
-Kentucky Finance Conference,CVs(3),to_check,
+Kentucky Finance Conference,CVs(3),no_award,10 papers; no award found
 Texas Finance Festival,CVs(2),to_check,junior presenters only; award unknown
 Rome Junior Finance Conference (EIEF),CVs(2),to_check,
 Miami Behavioral Finance Conference,CVs(2),to_check,renamed Miami Finance Conference (Dec 2026)
@@ -21,11 +21,11 @@ Esade Spring Finance Workshop,CVs(2),to_check,
 Four Corners Meeting,CVs,to_check,
 UC Riverside Citrus Finance Conference,CVs,no_award?,no award found
 HEC-McGill Winter Finance Conference,CVs,to_check,
-Helsinki Finance Summit,CVs,to_check,
+Helsinki Finance Summit,CVs,no_award,12 papers; no award found
 UBC Winter Finance Conference,CVs,to_check,
 WashU Olin Corporate Finance Conference,CVs(2),to_check,
 Isenberg (UMass) Finance Conference,CVs,to_check,
-Finance Down Under,search;CVs(2),to_check,program PDF blocked (403); likely >15 papers
+Finance Down Under,search;CVs(2),blocked,best paper (Spencer Martin) + best discussant; Cloudflare blocks automated access
 ASU Sonoran Winter Finance Conference,search;CVs,have_program,2025-2026 parsed; winners not online
 Concordia AI in Finance Conference,search,to_check,best paper + best discussant
 Boca-ECGI Corporate Finance and Governance Conference,search,excluded?,3 parallel tracks
@@ -40,3 +40,11 @@ TCU Finance Conference,CVs,to_check,
 UCI Finance Conference,CVs,to_check,
 Chicago Financial Institutions Conference,CVs,to_check,
 Benelux Corporate Finance Day,CVs,to_check,
+Spring Finance Workshop (Luxembourg/McGill),search,have_program,12 papers; best paper + best discussion; 2024-2025 parsed
+Jackson Hole Finance Group Conference,Utah winner news,have_program,10 papers; best paper by attendee vote (2026 only)
+Michigan Ross Mitsui Finance Symposium,Lochstoer CV,blocked,two best-discussion awards by anonymous participant vote; Cloudflare blocks automated access
+ISB Summer Research Conference in Finance,Cookson CV,blocked,best paper; NSE best discussant (2022); site rejects automated requests
+Future of Financial Information Conference,Cookson CV,to_check,ranked best discussion (per Cookson CV); best PhD paper award
+LBS Summer Finance Symposium,Puri page; Wharton awards page,to_check,best paper + best discussant; program not found
+HEC-McGill Winter Finance Workshop,McGill DGFRC,no_award,12 papers; no award in programs
+University of Washington Summer Finance Conference,Zhu CV,no_award?,"12 papers, biennial; no current award found"

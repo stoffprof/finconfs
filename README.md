@@ -16,17 +16,11 @@ discussant awards at finance conferences.
 
 ## Data to collect
 
-`data/conferences.csv`: one row per conference-year
+`data/series.csv`: one row per conference series (format, awards, how winners are
+chosen, where programs come from, which years are usable and why).
 
-| field | notes |
-|---|---|
-| conf_id | e.g. `fdu_2025` |
-| name, year, start_date, end_date, location | |
-| program_url, awards_url | source links |
-| n_days, parallel_sessions (y/n) | |
-| has_best_paper, has_best_discussant | |
-| award_decision | `pre_conference` (committee reads submissions), `at_conference` (judges or attendees watch talks), or `unknown` |
-| award_source | conference site / news item / CVs |
+`data/conference_years.csv` (generated): one row per conference-year with paper,
+session and day counts and the awards recorded.
 
 `data/programs/<conf_id>.csv`: one row per paper slot, in presentation order,
 built by the parsers in `scripts/`. `data/awards.csv`: one row per award.
@@ -37,7 +31,7 @@ built by the parsers in `scripts/`. `data/awards.csv`: one row per award.
 | field | notes |
 |---|---|
 | conf_id, session_id, session_title | |
-| day_num, session_start, session_end | session position in the conference |
+| day_num, day_rank, session_start, session_end | session position in the conference |
 | slot_in_session, n_slots_in_session | paper order within session |
 | is_plenary | plenary or keynote vs. parallel |
 | paper_title, presenter, coauthors | |
@@ -45,6 +39,7 @@ built by the parsers in `scripts/`. `data/awards.csv`: one row per award.
 | won_best_paper, won_best_discussant | 0/1 |
 | award_evidence | URL or CV mention |
 
+`order_in_conf` and `n_in_conf` give each talk's position in the whole meeting.
 From these we can build several position measures: overall order in the
 conference, first or last day, first or last session of a day, and first or
 last slot within a session.

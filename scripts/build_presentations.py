@@ -49,7 +49,14 @@ for path in sorted(glob.glob("data/programs/*.csv")):
             r[f"won_{t}"] = int(hit)
         rows.append(r)
 
-out_fields = FIELDS + ["order_in_conf", "n_in_conf"] + [f"won_{t}" for t in award_types]
+# day_rank: 1 = first day with papers (some programs number a reception-only day)
+for c in {r["conf_id"] for r in rows}:
+    days = sorted({int(r["day_num"] or 0) for r in rows if r["conf_id"] == c})
+    for r in rows:
+        if r["conf_id"] == c:
+            r["day_rank"] = days.index(int(r["day_num"] or 0)) + 1
+
+out_fields = FIELDS + ["day_rank", "order_in_conf", "n_in_conf"] + [f"won_{t}" for t in award_types]
 with open("data/presentations.csv", "w", newline="") as f:
     w = csv.DictWriter(f, fieldnames=out_fields, extrasaction="ignore")
     w.writeheader()
@@ -66,4 +73,14 @@ for (c, t), n_exp in expected.items():
     n = sum(r[f"won_{t}"] for r in rows if r["conf_id"] == c)
     if n != n_exp:
         print(f"WARNING {c} {t}: {n_exp} winner(s) listed, matched {n} slots")
+# one row per conference-year
+with open("data/conference_years.csv", "w", newline="") as f:
+    w = csv.writer(f)
+    w.writerow(["conf_id", "series", "year", "n_papers", "n_sessions", "n_days", "awards"])
+    for c in sorted({r["conf_id"] for r in rows}):
+        rs = [r for r in rows if r["conf_id"] == c]
+        w.writerow([c, c.rsplit("_", 1)[0], c.rsplit("_", 1)[1], len(rs),
+                    len({(r["day_num"], r["session_num"]) for r in rs}), len({r["day_num"] for r in rs}),
+                    "; ".join(sorted({a["award"] for a in awards if a["conf_id"] == c}))])
+
 print(f"{len(rows)} slots from {len({r['conf_id'] for r in rows})} conference-years -> data/presentations.csv")

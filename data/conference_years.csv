@@ -1,0 +1,48 @@
+conf_id,series,year,n_papers,n_sessions,n_days,awards
+asu_2024,asu,2024,10,4,1,best_paper
+asu_2025,asu,2025,12,5,1,
+asu_2026,asu,2026,11,5,1,
+colorado_2015,colorado,2015,15,4,3,best_job_market_paper; best_paper
+colorado_2016,colorado,2016,15,5,3,best_job_market_paper; best_paper
+colorado_2017,colorado,2017,15,5,3,best_job_market_paper; best_paper
+colorado_2018,colorado,2018,13,5,3,best_job_market_paper; best_paper
+colorado_2019,colorado,2019,13,5,3,best_job_market_paper; best_paper
+colorado_2022,colorado,2022,12,5,3,best_discussant; best_job_market_paper; best_paper
+colorado_2023,colorado,2023,12,5,3,best_discussant; best_job_market_paper; best_paper
+colorado_2024,colorado,2024,12,5,3,best_discussant; best_job_market_paper; best_paper
+colorado_2025,colorado,2025,12,5,3,best_discussant; best_job_market_paper; best_paper
+fra_2010,fra,2010,8,3,2,best_discussant; best_paper; young_scholar
+fra_2011,fra,2011,8,3,2,best_discussant; best_paper; young_scholar
+fra_2012,fra,2012,8,3,2,best_discussant; best_paper; ubs_investments; young_scholar
+fra_2013,fra,2013,8,3,2,best_discussant; best_paper; ubs_investments; young_scholar
+fra_2014,fra,2014,8,3,2,best_discussant; best_paper; young_scholar
+fra_2015,fra,2015,8,3,2,best_discussant; best_paper; young_scholar
+fra_2016,fra,2016,8,3,2,best_discussant; best_paper; young_scholar
+fra_2017,fra,2017,8,3,2,best_discussant; best_paper; young_scholar
+fra_2018,fra,2018,9,4,2,best_discussant; best_paper; young_scholar
+fra_2019,fra,2019,8,3,2,best_discussant; best_paper; young_scholar
+fra_2021,fra,2021,8,3,2,best_discussant; best_paper; young_scholar_poster
+fra_2022,fra,2022,9,4,2,best_discussant; best_paper; young_scholar
+fra_2023,fra,2023,8,3,2,best_discussant; best_paper; young_scholar
+fra_2024,fra,2024,8,3,2,best_discussant; best_paper; young_scholar
+fra_2025,fra,2025,8,3,2,best_discussant; best_paper; young_scholar
+holden_2026,holden,2026,12,6,2,
+jh_2026,jh,2026,10,5,3,best_paper
+napa_2014,napa,2014,6,1,1,best_paper
+napa_2015,napa,2015,6,1,1,best_paper
+napa_2016,napa,2016,6,1,1,best_paper
+napa_2017,napa,2017,6,1,1,best_paper
+napa_2018,napa,2018,6,1,1,best_paper
+napa_2019,napa,2019,5,1,1,best_paper
+napa_2022,napa,2022,6,1,1,best_paper
+napa_2023,napa,2023,6,1,1,best_paper
+napa_2024,napa,2024,6,1,1,best_paper
+napa_2025,napa,2025,6,1,1,best_paper
+napa_2026,napa,2026,6,1,1,best_paper
+rcfs_2026,rcfs,2026,14,5,2,best_discussant; best_paper
+redrock_2025,redrock,2025,10,4,2,best_discussant; best_paper
+redrock_2026,redrock,2026,10,4,2,
+sfw_2024,sfw,2024,12,6,3,best_discussant; best_paper
+sfw_2025,sfw,2025,12,6,3,best_discussant; best_paper
+utah_2025,utah,2025,10,5,3,best_paper
+utah_2026,utah,2026,10,5,3,best_paper
