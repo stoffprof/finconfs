@@ -1,0 +1,9 @@
+conf_id,day_num,date,session_num,session_start,session_end,session_title,chair,slot_in_session,n_slots_in_session,paper_title,authors,presenter,discussant
+fra_2012,1,"December 15, 2012",1,1:10 PM,3:10 PM,,Hassan Tehranian,1,3,(How) Do taxes affect capital structure?,Andrew MacKinlay,Mark Leary,Mark Leary
+fra_2012,1,"December 15, 2012",1,1:10 PM,3:10 PM,,Hassan Tehranian,2,3,What are we meeting for? The consequences of private meetings with investors,David Solimon and Eugene Soltes,Christopher Parsons,Christopher Parsons
+fra_2012,1,"December 15, 2012",1,1:10 PM,3:10 PM,,Hassan Tehranian,3,3,On the fundamental relation between returns and interest rates,"Jaewon Choi, Matthew Richardson, and Robert Whitelaw",Scott Joslin,Scott Joslin
+fra_2012,1,"December 15, 2012",2,3:40 PM,5:00 PM,,Micah Officer,1,2,Posturing in venture capital,Naveen Khanna and Richmond Matthews,Paolo Fulghieri,Paolo Fulghieri
+fra_2012,1,"December 15, 2012",2,3:40 PM,5:00 PM,,Micah Officer,2,2,Industry Window Dressing,"Huaizhi Chen, Lauren Cohen, and Dong Lou",Michael Roberts,Michael Roberts
+fra_2012,2,"December 16, 2012",3,1:00 PM,3:00 PM,,Mark Huson,1,3,No news is news: Do markets underreact to nothing?,Stefano Giglio and Kelly Shue,Michael Lemmon,Michael Lemmon
+fra_2012,2,"December 16, 2012",3,1:00 PM,3:00 PM,,Mark Huson,2,3,Attitudes toward government as determinants of intertemporal choice,"Jeffrey Brown, Zoran Ivkovich, and Scott Weisbenner",Andrew Samwick,Andrew Samwick
+fra_2012,2,"December 16, 2012",3,1:00 PM,3:00 PM,,Mark Huson,3,3,Manager-initiated versus investor-initiated equity issuances,Stephen McKeon,Timothy Loughran,Timothy Loughran

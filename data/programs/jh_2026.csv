@@ -1,0 +1,11 @@
+conf_id,day_num,date,session_num,session_start,session_end,session_title,track,chair,slot_in_session,n_slots_in_session,paper_title,authors,presenter,discussant
+jh_2026,2,January 17,1,7:25 a.m.,8:45 a.m.,Liquidity,,Adriano Rampini,1,2,A Unified Theory of Delegated Capital Management,Jonathan Berk; Peter DeMarzo,Jonathan Berk,
+jh_2026,2,January 17,1,7:25 a.m.,8:45 a.m.,Liquidity,,Adriano Rampini,2,2,The Importance of Being Earnest (in Search Markets),Brendan Daley; Jacob Sagi,Jacob Sagi,
+jh_2026,2,January 17,2,4:45 p.m.,6:05 p.m.,Debt,,Jan Bena,1,2,Debt and Assets,Raghuram Rajan; Efraim Benmelech; Nitish Kumar,Nitish Kumar,
+jh_2026,2,January 17,2,4:45 p.m.,6:05 p.m.,Debt,,Jan Bena,2,2,Hidden Medical Debt and Consumer Access to Credit,Elena Loutskina; Joonsung Won,Elena Loutskina,
+jh_2026,3,January 18,3,7:25 a.m.,8:45 a.m.,Banking,,Barney Hartman-Glaser,1,2,"Banks, the Government and Money Creation",Fenghua Song; Anjan Thakor,Anjan Thakor,
+jh_2026,3,January 18,3,7:25 a.m.,8:45 a.m.,Banking,,Barney Hartman-Glaser,2,2,Too-Many-to-Ignore: Regional Banks and CRE Risks,Franz Hinzen; Felipe Severino; Stijn Van Nieuwerburgh,Franz Hinzen,
+jh_2026,3,January 18,4,5:00 p.m.,6:20 p.m.,Asset Returns,,Carolin Pflueger,1,2,Interest Rate Risk and Cross-Sectional Effects of Micro-Prudential Regulation,Juliane Bergenau; Vadim Elenev; Tim Landvoigt,Vadim Elenev,
+jh_2026,3,January 18,4,5:00 p.m.,6:20 p.m.,Asset Returns,,Carolin Pflueger,2,2,A Trilemma for Asset Demand Estimation,William Fuchs; Satoshi Fukuda; Daniel Neuhann,William Fuchs,
+jh_2026,4,January 19,5,7:25 a.m.,8:45 a.m.,Government Policy,,Andrea Eisfeldt,1,2,When Protectionism Kills Talent,Mehmet Canayaz; Isil Erel; Umit Gurun; Yufeng Wu,Isil Erel,
+jh_2026,4,January 19,5,7:25 a.m.,8:45 a.m.,Government Policy,,Andrea Eisfeldt,2,2,Measuring Financial Subsidies to SEO’s: A New Asset Return-Based Framework,Deborah Lucas; Marco Garcia; Tiago Solberg,Deborah Lucas,

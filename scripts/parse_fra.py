@@ -9,8 +9,8 @@ FIELDS = ["conf_id", "day_num", "date", "session_num", "session_start", "session
           "session_title", "chair", "slot_in_session", "n_slots_in_session", "paper_title",
           "authors", "presenter", "discussant"]
 
-DAY_RE = re.compile(r"^(Saturday|Sunday|Friday|Monday), (\w+ \d+), (\d{4})")
-SESS_RE = re.compile(r"^([\d:.]+ [AP]M) to ([\d:.]+ [AP]M) Session (\d+)")
+DAY_RE = re.compile(r"^(Saturday|Sunday|Friday|Monday),? (\w+ \d+)(?:st|nd|rd|th)?,? (\d{4})")
+SESS_RE = re.compile(r"^([\d:.]+ [AP]M) to ([\d:.]+ [AP]M) Session (\d+)(.*)")
 
 
 def parse(html_path, conf_id, year):
@@ -19,6 +19,7 @@ def parse(html_path, conf_id, year):
         t.decompose()
     lines = [l.strip() for l in soup.get_text("\n").splitlines() if l.strip()]
     start = next(i for i, l in enumerate(lines) if l.startswith("Program for the"))
+    # older pages: the Discussant/Presenter line can be missing; guard index use below
     # page headers split "20\nth\nAnnual"; join short fragments is unnecessary for parsing below
     rows, day_num, date, sess, title = [], 0, None, None, None
     i = start
@@ -32,14 +33,15 @@ def parse(html_path, conf_id, year):
         if m:
             sess = dict(session_num=int(m.group(3)), session_start=m.group(1).replace(".", ":"),
                         session_end=m.group(2), chair="", session_title="")
-            if lines[i + 1] == "Early Ideas Session":
+            if "Early Ideas" in m.group(4) or lines[i + 1] == "Early Ideas Session":
                 sess = None  # no discussants; short pitches
         if sess and l.startswith("Chairperson:"):
             sess["chair"] = l.split(":", 1)[1].strip()
-        if sess and l.startswith("Authors:"):
+        if sess and re.match(r"^Authors?:", l):
             rows.append(dict(conf_id=conf_id, day_num=day_num, date=date, **sess,
                              paper_title=lines[i - 1], authors=l.split(":", 1)[1].strip(),
-                             discussant=lines[i + 1].split(":", 1)[1].strip()))
+                             discussant=lines[i + 1].split(":", 1)[1].strip()
+                             if lines[i + 1].startswith("Discussant") else ""))
             # at FRA the discussant presents the paper
             rows[-1]["presenter"] = rows[-1]["discussant"]
         i += 1

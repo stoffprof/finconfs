@@ -1,0 +1,10 @@
+conf_id,day_num,date,session_num,session_start,session_end,session_title,chair,slot_in_session,n_slots_in_session,paper_title,authors,presenter,discussant
+fra_2018,1,"December 8, 2018",1,12:30 PM,1:50 PM,,Wayne Ferson,1,2,Venture capital contracts,"Michael Ewens, Alexander Gorbenko, and Arthur Korteweg",Vincent Glode,Vincent Glode
+fra_2018,1,"December 8, 2018",1,12:30 PM,1:50 PM,,Wayne Ferson,2,2,Private equity indices based on secondary market transactions,"Brian Boyer, Taylor Nadauld, Keith Vorkink and Michael Weisbach",Ayako Yasuda,Ayako Yasuda
+fra_2018,1,"December 8, 2018",2,2:20 PM,3:40 PM,,Laura Starks,1,2,The madness of crowds and the likelihood of bubbles,Alexander Chinco,Daniel Andrei,Daniel Andrei
+fra_2018,1,"December 8, 2018",2,2:20 PM,3:40 PM,,Laura Starks,2,2,Partisan professionals: evidence from credit rating analysts,Elisabeth Kempf and Margarita Tsoutsoura,Stefan Lewellen,Stefan Lewellen
+fra_2018,1,"December 8, 2018",3,4:10 PM,5:30 PM,,Diane Del Guercio,1,2,Technological disruptiveness and the evolution of IPOs and sell-outs,"Donald Bowen, Laurent Frésard, and Gerard Hoberg",Song Ma,Song Ma
+fra_2018,1,"December 8, 2018",3,4:10 PM,5:30 PM,,Diane Del Guercio,2,2,Public ownership and the local economy,"Jess Cornaggia, Matt Gustafson, Jason Kotter and Kevin Pisciotta",Ran Duchin,Ran Duchin
+fra_2018,2,"December 9, 2018",4,1:00 PM,3:00 PM,,Jarrad Harford,1,3,Better monitoring … worse productivity?,John Zhu,Brett Green,Brett Green
+fra_2018,2,"December 9, 2018",4,1:00 PM,3:00 PM,,Jarrad Harford,2,3,Product proliferation as price obfuscation? evidence from the mortgage market,Lu Liu,Kelly Shue,Kelly Shue
+fra_2018,2,"December 9, 2018",4,1:00 PM,3:00 PM,,Jarrad Harford,3,3,What do mutual fund investors really care about?,"Itzhak Ben-David, Jiacui Li, Andrea Rossi and Yang Song",Terrance Odean,Terrance Odean

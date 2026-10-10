@@ -1,0 +1,9 @@
+conf_id,day_num,date,session_num,session_start,session_end,session_title,chair,slot_in_session,n_slots_in_session,paper_title,authors,presenter,discussant
+fra_2017,1,"December 16, 2017",1,1:10 PM,3:10 PM,,Bruce Carlin,1,3,p-hacking: Evidence from two million trading strategies,"Amit Goyal, Tarun Chordia, and Alessio Saretto",Ing-Haw Cheng,Ing-Haw Cheng
+fra_2017,1,"December 16, 2017",1,1:10 PM,3:10 PM,,Bruce Carlin,2,3,The mismatch between mutual fund scale and skill,Yang Song,Roger Edelen,Roger Edelen
+fra_2017,1,"December 16, 2017",1,1:10 PM,3:10 PM,,Bruce Carlin,3,3,Short-termism spillovers from the financial industry,"Andrew Bird, Aytekin Ertan, Stephen Karolyi, and Thomas Ruchti",Micah Officer,Micah Officer
+fra_2017,1,"December 16, 2017",2,3:40 PM,5:00 PM,,Mark Huson,1,2,The sound of many funds rebalancing,Alexander Chinco and Slava Fos,Brian Weller,Brian Weller
+fra_2017,1,"December 16, 2017",2,3:40 PM,5:00 PM,,Mark Huson,2,2,Thy neighbor’s misfortune: Peer effect on consumption,"Xin Zou, Sumit Agarwal, and Wenlan Qian",Scott Baker,Scott Baker
+fra_2017,2,"December 17, 2017",3,1:00 PM,3:00 PM,,Eli Fich,1,3,Deadlock on the Board,"Jason Donaldson, Nadya Malenko, and Giorgia Piacentino",Edward Van Wesep,Edward Van Wesep
+fra_2017,2,"December 17, 2017",3,1:00 PM,3:00 PM,,Eli Fich,2,3,Can reinvestment risk explain the dividend and bond term structures?,Andrei Goncalves,Oliver Boguth,Oliver Boguth
+fra_2017,2,"December 17, 2017",3,1:00 PM,3:00 PM,,Eli Fich,3,3,"Some characteristics are risk exposures, and the rest are irrelevant",Bryan Kelly and Seth Pruitt,Jules Van Binsbergen,Jules Van Binsbergen

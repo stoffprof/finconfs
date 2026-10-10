@@ -1,0 +1,9 @@
+conf_id,day_num,date,session_num,session_start,session_end,session_title,chair,slot_in_session,n_slots_in_session,paper_title,authors,presenter,discussant
+fra_2011,1,"December 17, 2011",1,1:10 PM,3:10 PM,,Hassan Tehranian,1,3,Financial Market Dislocations,Paolo Pasquariello,Jules Van Binsbergen,Jules Van Binsbergen
+fra_2011,1,"December 17, 2011",1,1:10 PM,3:10 PM,,Hassan Tehranian,2,3,Why do IPO firms have Takeover Defenses?,"William Johnson, Jonathan Karpoff, and Sangho Li",Michelle Lowry,Michelle Lowry
+fra_2011,1,"December 17, 2011",1,1:10 PM,3:10 PM,,Hassan Tehranian,3,3,Contracting with Synergies,"John Yiran Zhu, Alex Edmans, and Itay Goldstein",William Fuchs,William Fuchs
+fra_2011,1,"December 17, 2011",2,3:40 PM,5:00 PM,,Micah Officer,1,2,"Opacity, Credit Rating Shopping and Bias",Francesco Sangiorgi and Chester Spatt,Gunter Strobl,Gunter Strobl
+fra_2011,1,"December 17, 2011",2,3:40 PM,5:00 PM,,Micah Officer,2,2,The Growth and Limits of Arbitrage: Evidence from Short Interest,Sam Hanson and Adi Sunderam,Jonathan Lewellen,Jonathan Lewellen
+fra_2011,2,"December 18, 2011",3,1:00 PM,3:00 PM,,Mark Huson,1,3,Losing sight of the treees for the forest? Pairs trading and attention shifts,Heiko Jacobs and Martin Weber,Paul Tetlock,Paul Tetlock
+fra_2011,2,"December 18, 2011",3,1:00 PM,3:00 PM,,Mark Huson,2,3,Cross-Sectional Asset Pricing with Individual Stocks,"Tarun Chordia, Amit Goyal, and Jay Shanken",Wayne Ferson,Wayne Ferson
+fra_2011,2,"December 18, 2011",3,1:00 PM,3:00 PM,,Mark Huson,3,3,Contagious Capital: A Network Analysis of Interconnected Intermediaries,Jesse Blocher,Rick Sias,Rick Sias

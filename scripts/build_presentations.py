@@ -4,6 +4,7 @@ Adds, per slot: order_in_conf (1 = first paper of the meeting), n_in_conf, and a
 Paper awards match on normalized title; best_discussant matches on discussant surname.
 """
 import csv
+import difflib
 import glob
 import re
 import unicodedata
@@ -18,6 +19,11 @@ def norm(s):
 
 def surname(name):
     return norm(name).split()[-1] if norm(name) else ""
+
+
+def same_title(a, b):
+    a, b = norm(a)[:60], norm(b)[:60]
+    return a == b or difflib.SequenceMatcher(None, a, b).ratio() >= 0.85
 
 
 awards = list(csv.DictReader(open("data/awards.csv")))
@@ -36,8 +42,10 @@ for path in sorted(glob.glob("data/programs/*.csv")):
                 if t == "best_discussant":
                     discs = [surname(d) for d in r["discussant"].split(";")]
                     hit |= surname(a["winner"]) in discs
-                else:
-                    hit |= norm(a["paper_title"])[:40] == norm(r["paper_title"])[:40]
+                elif r["paper_title"]:
+                    hit |= same_title(a["paper_title"], r["paper_title"])
+                else:  # program lists presenter only (no title): match on presenter surname
+                    hit |= surname(r["presenter"]) in [surname(w) for w in a["winner"].split(";")]
             r[f"won_{t}"] = int(hit)
         rows.append(r)
 
@@ -48,8 +56,14 @@ with open("data/presentations.csv", "w", newline="") as f:
     w.writerows(rows)
 
 # sanity check: every award should match exactly one slot (or be flagged)
+expected = {}
 for a in awards:
-    n = sum(r[f"won_{a['award']}"] for r in rows if r["conf_id"] == a["conf_id"])
-    if n != 1:
-        print(f"WARNING {a['conf_id']} {a['award']} {a['winner']}: matched {n} slots")
+    k = (a["conf_id"], a["award"])
+    expected[k] = expected.get(k, 0) + 1
+for (c, t), n_exp in expected.items():
+    if t.endswith("_poster"):  # poster awards have no program slot
+        continue
+    n = sum(r[f"won_{t}"] for r in rows if r["conf_id"] == c)
+    if n != n_exp:
+        print(f"WARNING {c} {t}: {n_exp} winner(s) listed, matched {n} slots")
 print(f"{len(rows)} slots from {len({r['conf_id'] for r in rows})} conference-years -> data/presentations.csv")

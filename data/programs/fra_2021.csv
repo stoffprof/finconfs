@@ -1,0 +1,9 @@
+conf_id,day_num,date,session_num,session_start,session_end,session_title,chair,slot_in_session,n_slots_in_session,paper_title,authors,presenter,discussant
+fra_2021,1,"December 11, 2021",1,1:10 PM,3:10 PM,,Murray Carlson,1,3,Dynamic Asset (Mis)Pricing: Build-up versus Resolution Anomalies,"Jules van Binsbergen, Martijn Boons, Christian Opp and Andrea Tamoni",Seth Pruitt,Seth Pruitt
+fra_2021,1,"December 11, 2021",1,1:10 PM,3:10 PM,,Murray Carlson,2,3,Noisy Factors,"Pat Akey, Adriana Robertson and Mikhail Simutin",Zhi Da,Zhi Da
+fra_2021,1,"December 11, 2021",1,1:10 PM,3:10 PM,,Murray Carlson,3,3,Count Data in Finance,"Jonathan Cohn, Zack Liu and Malcolm Wardlaw",Tony Cookson,Tony Cookson
+fra_2021,1,"December 11, 2021",2,3:40 PM,5:00 PM,,Laura Starks,1,2,Collateral Reallocation,"Jason Donaldson, Denis Gromb and Giorgia Piacentino",Jeff Zwiebel,Jeff Zwiebel
+fra_2021,1,"December 11, 2021",2,3:40 PM,5:00 PM,,Laura Starks,2,2,Smart(Phone) Investing? A Within Investor-time Analysis of New Technologies and Trading Behavior,"Ankit Kalda, Benjamin Loos, Alessandro Previtero and Andreas Hackethal",Jonathan Reuter,Jonathan Reuter
+fra_2021,2,"December 12, 2021",3,1:00 PM,3:00 PM,,Mike Faulkender,1,3,Did FinTech Lenders Facilitate PPP Fraud?,"John Griffin, Samuel Kruger and Prateek Mahajan",Jessica Jeffers,Jessica Jeffers
+fra_2021,2,"December 12, 2021",3,1:00 PM,3:00 PM,,Mike Faulkender,2,3,Distorting Effects of PPP Loans on Competition: Evidence from the Hotel Industry,Eva Steiner and Alexei Tchistyi,Sabrina Howell,Sabrina Howell
+fra_2021,2,"December 12, 2021",3,1:00 PM,3:00 PM,,Mike Faulkender,3,3,Decentralized Exchanges,Alfred Lehar and Christine Parlour,William Mann,William Mann

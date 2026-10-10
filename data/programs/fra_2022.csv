@@ -1,0 +1,10 @@
+conf_id,day_num,date,session_num,session_start,session_end,session_title,chair,slot_in_session,n_slots_in_session,paper_title,authors,presenter,discussant
+fra_2022,1,"December 10, 2022",1,12:30 PM,1:50 PM,,Sam Hartzmark,1,2,Stakes and Investor Behaviors,Pengfei Sui and Baolian Wang,Rawley Heimer,Rawley Heimer
+fra_2022,1,"December 10, 2022",1,12:30 PM,1:50 PM,,Sam Hartzmark,2,2,Investor Memory and Biased Beliefs: Evidence from the Field,"Zhengyang Jiang, Hongqi Liu, Cameron Peng and Hongjun Yan",Kelly Shue,Kelly Shue
+fra_2022,1,"December 10, 2022",2,2:20 PM,3:40 PM,,Kristine Hankins,1,2,"Safety Nets, Credit, and Productive Activity: Evidence from a Guaranteed Income Program for Small Entrepreneurs",Pulak Ghosh and Nishant Vats,Emily Williams,Emily Williams
+fra_2022,1,"December 10, 2022",2,2:20 PM,3:40 PM,,Kristine Hankins,2,2,Student Debt and Labor Market Trajectories,Menaka Hampole,Emily Gallagher,Emily Gallagher
+fra_2022,1,"December 10, 2022",3,4:10 PM,5:30 PM,,Todd Gormley,1,2,Anomaly or Possible Risk Factor? Simple-To-Use Tests,"Benjamin Holcblat, Abraham Lioui and Michael Weber",Shri Santosh,Shri Santosh
+fra_2022,1,"December 10, 2022",3,4:10 PM,5:30 PM,,Todd Gormley,2,2,Causal Effect of Information Costs on Asset Pricing Anomalies,"Yong Hyuck Kim, Zoran Ivković and Dmitriy Muravyev",David McLean,David McLean
+fra_2022,2,"December 11, 2022",4,1:00 PM,3:00 PM,,Jennifer Blouin,1,3,Intermediary Balance Sheets and the Treasury Yield Curve,"Wenxin Du, Benjamin Hébert, and Wenhao Li",Tim Landvoigt,Tim Landvoigt
+fra_2022,2,"December 11, 2022",4,1:00 PM,3:00 PM,,Jennifer Blouin,2,3,Sustainability or Greenwashing: Evidence from the Asset Market for Industrial Pollution,"Ran Duchin, Janet Gao and Qiping Xu",Matt Ringgenberg,Matt Ringgenberg
+fra_2022,2,"December 11, 2022",4,1:00 PM,3:00 PM,,Jennifer Blouin,3,3,The “Actual Retail Price” of Equity Trades,"Christopher Schwarz, Brad Barber, Xing Huang, Philippe Jorion and Terrance Odean",Chris Jones,Chris Jones

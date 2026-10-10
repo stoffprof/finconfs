@@ -1,0 +1,9 @@
+conf_id,day_num,date,session_num,session_start,session_end,session_title,chair,slot_in_session,n_slots_in_session,paper_title,authors,presenter,discussant
+fra_2010,1,"December 18, 2010",1,1:10 PM,3:10 PM,,Hassan Tehranian,1,3,"Technological Progress, Industry Rivalry, and Stock Returns",Jan Bena and Lorenzo Garlappi,Dimitris Papanikolaou,Dimitris Papanikolaou
+fra_2010,1,"December 18, 2010",1,1:10 PM,3:10 PM,,Hassan Tehranian,2,3,CEO Contract Horizon and Investment,Moqi Xu,Jay Hartzel,Jay Hartzel
+fra_2010,1,"December 18, 2010",1,1:10 PM,3:10 PM,,Hassan Tehranian,3,3,Divisional Managers and Internal Capital Markets,Ran Duchin and Denis Sosyura,Joey Engelberg,Joey Engelberg
+fra_2010,1,"December 18, 2010",2,3:40 PM,5:00 PM,,Micah Officer,1,2,"Corporate Leverage, Debt Maturity and Credit Default Swaps: The Role of Credit Supply",Alessio Saretto and Heather Tookes,Michael Faulkender,Michael Faulkender
+fra_2010,1,"December 18, 2010",2,3:40 PM,5:00 PM,,Micah Officer,2,2,Capitalizing on Capitol Hill: Informed Trading by Hedge Fund Managers,Jiekun Huang and Meng Gao,Andrea Frazzini,Andrea Frazzini
+fra_2010,2,"December 19, 2010",3,1:00 PM,3:00 PM,,Eli Fich,1,3,Asset Trading and News in Markets with Asymmetric Information,Brett Green and Brendan Daley,Chester Spatt,Chester Spatt
+fra_2010,2,"December 19, 2010",3,1:00 PM,3:00 PM,,Eli Fich,2,3,"Local investors, price discover and market efficiency",Sophie Shive,Mark Seasholes,Mark Seasholes
+fra_2010,2,"December 19, 2010",3,1:00 PM,3:00 PM,,Eli Fich,3,3,Explicit / implicit contracts with non-financial stakeholders and corporate capital structure: The case of product warranties,"Jayant Kale, Costanza Menegetti, and Husayn Shahrur",Vojislav Maksimovic,Vojislav Maksimovic

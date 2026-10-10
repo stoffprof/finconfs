@@ -1,0 +1,13 @@
+conf_id,day_num,date,session_num,session_start,session_end,session_title,track,chair,slot_in_session,n_slots_in_session,paper_title,authors,presenter,discussant
+colorado_2023,2,December 15,1,7:05am,8:30am,,,Adam Jørring (BC),1,2,Can Finance Save the World? Measurement and Effects of Bank Coal Exit Policies,Daniel Green and Boris Vallée,Daniel Green,Ivan Ivanov
+colorado_2023,2,December 15,1,7:05am,8:30am,,,Adam Jørring (BC),2,2,Monetary Policy Transmission Through Online Banks,"Isil Erel, Jack Liebersohn, Constantine Yannelis and Samuel Earnest",Jack Liebersohn,Kairong Xiao
+colorado_2023,2,December 15,2,5:00pm,7:00pm,Job Market Session,,,1,4,Lawyers Setting the Menu: The Effects of Litigation Risk on Employer-Sponsored Retirement Plans,Michael Gropper (UNC),Michael Gropper,
+colorado_2023,2,December 15,2,5:00pm,7:00pm,Job Market Session,,,2,4,The Digital Banking Revolution: Effects on Competition and Stability,Naz Koont (Columbia U),Naz Koont,
+colorado_2023,2,December 15,2,5:00pm,7:00pm,Job Market Session,,,3,4,Capital Flows and the Making of Risky Currencies,Zhiyu Fu (U Chicago),Zhiyu Fu,
+colorado_2023,2,December 15,2,5:00pm,7:00pm,Job Market Session,,,4,4,The Costs of Hidden Workplace Harassment,Tural Karimli (Frankfurt School of Finance),Tural Karimli,
+colorado_2023,3,December 16,3,7:00am,8:30am,,,Alessandro Melone (OSU),1,2,Short-Term Debt Overhang,"Kostas Koufopoulos, Giulio Trigilia and Pavel Zryumov",Giulio Trigilia,Joanne Chen
+colorado_2023,3,December 16,3,7:00am,8:30am,,,Alessandro Melone (OSU),2,2,Strategic Arbitrage in Segmented Markets,"Svetlana Bryzgalova, Anna Pavlova and Taisiya Sikorskaya",Anna Pavlova,Nicolae Garleanu
+colorado_2023,3,December 16,4,5:00pm,6:30pm,,,,1,2,Are Patents with Female Inventors Under-Cited? Evidence from Causal Text Estimation,"Yael Hochberg, Ali Kakhbod, Peiyao Li and Kunal Sachdeva",Kunal Sachdeva,Tim Liu
+colorado_2023,3,December 16,4,5:00pm,6:30pm,,,,2,2,When Green Investors Are Green Consumers,Maxime Sauzet and Olivier David Zerbib,Maxime Sauzet,Jinyuan Zhang
+colorado_2023,4,December 17,5,7:00am,8:30am,,,Gustavo Schwenkler (Santa Clara U),1,2,Fund Flows and Income Risk of Fund Managers,"Xiao Cen, Winston Dou, Leonid Kogan and Wei Wu",Winston Dou,Jonathan Berk
+colorado_2023,4,December 17,5,7:00am,8:30am,,,Gustavo Schwenkler (Santa Clara U),2,2,How do Flows affect Prices? Evidence from an Experiment on the U.S. Stock Market,Trevor Gallen and Yana Gallen,Trevor Gallen,Lira Mota

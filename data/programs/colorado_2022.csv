@@ -1,0 +1,13 @@
+conf_id,day_num,date,session_num,session_start,session_end,session_title,track,chair,slot_in_session,n_slots_in_session,paper_title,authors,presenter,discussant
+colorado_2022,1,December 15,1,7:05am,8:30am,"Anything Goes on A Powder Day, or When Making Investment Decisions Apparently",,Will Mullins (UCSD),1,2,Subjective Risk-Return Trade-off,"Chanik Jo, Chen Lin, and Yang You",,Ramona Dagostino
+colorado_2022,1,December 15,1,7:05am,8:30am,"Anything Goes on A Powder Day, or When Making Investment Decisions Apparently",,Will Mullins (UCSD),2,2,Insensitive Investors,"Constantin Charles, Cary Frydman, and Mete Kilic",,Sam Hartzmark
+colorado_2022,1,December 15,2,5:00pm,7:00pm,Job Market Session,,,1,4,,Job Market Session: Our Profession's Promise Max Miller (Wharton),Job Market Session: Our Profession's Promise Max Miller,
+colorado_2022,1,December 15,2,5:00pm,7:00pm,Job Market Session,,,2,4,,Arthur Taburet (LSE),Arthur Taburet,
+colorado_2022,1,December 15,2,5:00pm,7:00pm,Job Market Session,,,3,4,,Paul Yoo (UNC),Paul Yoo,
+colorado_2022,1,December 15,2,5:00pm,7:00pm,Job Market Session,,,4,4,,Charlotte Haendler (BC),Charlotte Haendler,
+colorado_2022,2,December 16,3,7:00am,8:30am,Bleary Eyed Theory,,Yang Song (UW),1,2,Optimal Time-Consistent Debt Policies,Andrey Malenko and Anton Tsoy,,Barney Hartman-Glaser
+colorado_2022,2,December 16,3,7:00am,8:30am,Bleary Eyed Theory,,Yang Song (UW),2,2,Externalities of Responsible Investments,"Michele Bisceglia, Alessio Piccolo, and Jan Schneemeier",,Rui Albuquerque
+colorado_2022,2,December 16,4,5:00pm,6:30pm,Hiding is Hard,,Greg Brown (UNC),1,2,The Supply and Demand for Data Privacy: Evidence from Mobile Apps,"Bo Bian, Xinchen Ma, and Huan Tang",,Michael Sockin
+colorado_2022,2,December 16,4,5:00pm,6:30pm,Hiding is Hard,,Greg Brown (UNC),2,2,The Passive-Ownership Share Is Double What You Think It Is,AlexanderChinco and Marco Sammon,,Dimitry Muravyev
+colorado_2022,3,December 17,5,7:00am,8:30am,The (Causal) Impact of Snowfall on Piste Access,,Jawad Addoum (Cornell),1,2,Do Mortgage Lenders Compete Locally? Implications for Credit Access,Greg Buchak and Adam Jørring,,Marco Giacoletti
+colorado_2022,3,December 17,5,7:00am,8:30am,The (Causal) Impact of Snowfall on Piste Access,,Jawad Addoum (Cornell),2,2,The Effect of Childcare Access on Women’s Careers and Firm Performance,"Elena Simintzi, Sheng-Jun Xu, and Ting Xu",,Elena Pikulina

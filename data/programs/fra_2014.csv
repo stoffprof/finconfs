@@ -1,0 +1,9 @@
+conf_id,day_num,date,session_num,session_start,session_end,session_title,chair,slot_in_session,n_slots_in_session,paper_title,authors,presenter,discussant
+fra_2014,1,"December 13, 2014",1,1:10 PM,3:10 PM,,Eli Fich,1,3,"How Many Good and Bad Fund Managers are there, really?",Yong Chen and Wayne Ferson,Luke Taylor,Luke Taylor
+fra_2014,1,"December 13, 2014",1,1:10 PM,3:10 PM,,Eli Fich,2,3,Product market competition in a world of cross-ownership: Evidence from institutional blockholdings,Jie (Jack) He and Jiekun Huang,Kenneth Ahern,Kenneth Ahern
+fra_2014,1,"December 13, 2014",1,1:10 PM,3:10 PM,,Eli Fich,3,3,The cross-section of overnight versus intraday expected returns,"Dong Lou, Christopher Polk, and Spyros Skouras",Narasimhan Jegadeesh,Narasimhan Jegadeesh
+fra_2014,1,"December 13, 2014",2,3:40 PM,5:00 PM,,Mark Huson,1,2,Network centrality and gradual information diffusion,Binying Liu,Samuel Hartzmark,Samuel Hartzmark
+fra_2014,1,"December 13, 2014",2,3:40 PM,5:00 PM,,Mark Huson,2,2,Captive finance and the Coase conjecture,Justin Murfin and Ryan Pratt,Rich Mathews,Rich Mathews
+fra_2014,2,"December 14, 2014",3,1:00 PM,3:00 PM,,Micah Officer,1,3,"Procrastination, Present-Biased Preferences and Financial Behaviors",Jeffrey Brown and Alessandro Previtero,John Beshears,John Beshears
+fra_2014,2,"December 14, 2014",3,1:00 PM,3:00 PM,,Micah Officer,2,3,Asset Pricing and Sports Betting,Tobias Moskowitz,Antonio Bernardo,Antonio Bernardo
+fra_2014,2,"December 14, 2014",3,1:00 PM,3:00 PM,,Micah Officer,3,3,Governance by Litigation,Ian Appel,Jon Karpoff,Jon Karpoff

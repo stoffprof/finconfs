@@ -1,0 +1,9 @@
+conf_id,day_num,date,session_num,session_start,session_end,session_title,chair,slot_in_session,n_slots_in_session,paper_title,authors,presenter,discussant
+fra_2019,1,"December 7, 2019",1,1:10 PM,3:10 PM,,Jeff Zwiebel,1,3,Do Cash Windfalls Affect Wages? Evidence from R&D Grants to Small Firms,Sabrina Howell and J. David Brown,Cesare Fracasi,Cesare Fracasi
+fra_2019,1,"December 7, 2019",1,1:10 PM,3:10 PM,,Jeff Zwiebel,2,3,Capital Budgeting and Idiosyncratic Risk,Paul Decaire,James Weston,James Weston
+fra_2019,1,"December 7, 2019",1,1:10 PM,3:10 PM,,Jeff Zwiebel,3,3,Reusing Natural Experiments,"Davidson Heath, Mehrdad Samadi, Matthew Ringgenberg and Ingrid Werner",Sophie Shive,Sophie Shive
+fra_2019,1,"December 7, 2019",2,3:40 PM,5:00 PM,,Mike Hertzel,1,2,Speed Choice by High-Frequency Traders with Speed Bumps,Jun Aoyagi,Ohad Kadan,Ohad Kadan
+fra_2019,1,"December 7, 2019",2,3:40 PM,5:00 PM,,Mike Hertzel,2,2,Understanding Momentum and Reversal,"Bryan Kelly, Tobias Moskowitz and Seth Pruitt",Andrei Goncalves,Andrei Goncalves
+fra_2019,2,"December 8, 2019",3,1:00 PM,3:00 PM,,Chris Parsons,1,3,Gig-Labor: Trading Safety Nets for Steering Wheels,"Vyacheslav Fos, Naser Hamdi, Ankit Kalda and Jordan Nickerson",Isaac Hacamo,Isaac Hacamo
+fra_2019,2,"December 8, 2019",3,1:00 PM,3:00 PM,,Chris Parsons,2,3,Flow,Caitlin Dannhauser and Jeffrey Pontiff,Clemens Sialm,Clemens Sialm
+fra_2019,2,"December 8, 2019",3,1:00 PM,3:00 PM,,Chris Parsons,3,3,"Ownership, Learning and Beliefs","Samuel Hartzmark, Samuel Hirshman and Alex Imas",Gennaro Bernile,Gennaro Bernile

@@ -1,0 +1,9 @@
+conf_id,day_num,date,session_num,session_start,session_end,session_title,chair,slot_in_session,n_slots_in_session,paper_title,authors,presenter,discussant
+fra_2015,1,"December 12, 2015",1,1:10 PM,3:10 PM,,Bruce Carlin,1,3,Rewarding Disagreement for Optimal Collective Decisions: The Role of Skill and Luck,Naveen Khanna and Mark Schroder,Philip Bond,Philip Bond
+fra_2015,1,"December 12, 2015",1,1:10 PM,3:10 PM,,Bruce Carlin,2,3,Mutual Fund Risk-Shifting and Management Contracts,"Jung Lee, Charles Trzcinka, and Shyam Venkatesan",Laura Starks,Laura Starks
+fra_2015,1,"December 12, 2015",1,1:10 PM,3:10 PM,,Bruce Carlin,3,3,"Policy Uncertainty, Political Capital, and Firm Risk-Taking",Pat Akey and Stefan Lewellen,Lauren Cohen,Lauren Cohen
+fra_2015,1,"December 12, 2015",2,3:40 PM,5:00 PM,,Mark Huson,1,2,Measuring Tail Risks in Real Time,Brian Weller,Allan Timmermann,Allan Timmermann
+fra_2015,1,"December 12, 2015",2,3:40 PM,5:00 PM,,Mark Huson,2,2,The Usual Suspects: Experienced Backers and Early Stage Venture Success,Emma Li,Arthur Korteweg,Arthur Korteweg
+fra_2015,2,"December 13, 2015",3,1:00 PM,3:00 PM,,Eli Fich,1,3,When Fast Trading Looks Like Priced Noise,Alex Chinco and Mao Ye,Haoxiang Zhu,Haoxiang Zhu
+fra_2015,2,"December 13, 2015",3,1:00 PM,3:00 PM,,Eli Fich,2,3,Returns to Talent and the Finance Wage Premium,Boris Vallee and Claire Celerier,Vincent Glode,Vincent Glode
+fra_2015,2,"December 13, 2015",3,1:00 PM,3:00 PM,,Eli Fich,3,3,When Saving is Gambling,Anthony Cookson,Daniel Dorn,Daniel Dorn
